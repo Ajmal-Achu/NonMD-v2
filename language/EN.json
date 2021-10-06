@@ -52,6 +52,9 @@
             "L_DESC": "It send your location.",
             "L_WARN": "Please open your location before using command!"
         },
+        "whatsappstatus": {
+            "WS": "It sends Whatsapp status."
+        },
         "news": {
             "NEWS_DESC": "It send News."
         },
