@@ -4,7 +4,7 @@ const { getBuffer } = require('../Utilis/download');
 const { parseJid } = require("../Utilis/vote");
 // WIZARD SER
 const url = 'https://i.imgur.com/RwKAHYZ.jpeg'
-Shadow.addCommand(
+Julie.addCommand(
   { pattern: 'xforward ?(.*)', fromMe: true, desc: "Forward replied msg." },
   async (message, match) => {
     if (match == "") return await message.sendMessage("*Give me a jid*\nExample .mforward jid1 jid2 jid3 jid4 ...");
