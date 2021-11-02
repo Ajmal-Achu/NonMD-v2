@@ -80,6 +80,11 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
+## THANKS TO
+* [`Baileys`]
+* [`Ajmal-Achu`](github.com/Ajmal-Achu)
+* [`Farhan-dqz`](github.com/Farhan-dqz)
+
 ## Developers
   <div align="center">
     
