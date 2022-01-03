@@ -41,7 +41,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
+$ git clone https://github.com/Ajmallllllll/Nandhutty_v2
 $ cd Nandhutty_v2
 $ npm i
 $ node julie.js
