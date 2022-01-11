@@ -21,7 +21,13 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 ## Setup
 <div align="center">
 
-  ### Simple Method
+IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
+FIRST FORK THIS REPO
+THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
+
+Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
+
+### Simple Method
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEVILSER/Nandhutty_v2) 
   
