@@ -26,6 +26,13 @@ FIRST FORK THIS REPO
 THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
 Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
+</p>
+<div align="center">
+<details>
+    <summary><b>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘</b></summary>
+
+</p>
+
 
 ### Simple Method
   
