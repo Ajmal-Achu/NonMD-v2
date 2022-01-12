@@ -27,13 +27,10 @@ THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND
 
 Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
 </p>
-<div align="center">
-<details>
-    <summary><b>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘</b></summary>
-
-</p>
 
 
+[![Visit](https://i.imgur.com/A6rxBdq.jpeg)](https://61dd66edc10ff.site123.me) 
+  
 ### Simple Method
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2) 
