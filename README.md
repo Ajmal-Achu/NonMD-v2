@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/q1mhIa8.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Achootty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me/+919074916607"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
