@@ -1,12 +1,12 @@
 {
-    "name": "Nandhutty_v2",
-    "description": "Nandhutty_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-    "logo": "https://i.imgur.com/ADXSU8e.jpeg",
+    "name": "Achoos",
+    "description": "Achoos is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "logo": "https://i.imgur.com/KaFgao3.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Ajmal-Achu/Nandhutty_v2",
+    "repository": "https://github.com/APPUSSS/Achoos",
     "stack": "container",
     "env": {
-        "JULIE_SESSION": {
+        "ACHOOS_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
@@ -121,7 +121,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏Nandhutty_v2⤎╾━━━•"
+            "value": "•━━━━╼⤏💝ACHOOS💝⤎╾━━━•"
         },
         "WORK_TYPE": {
             "description": "Nandhutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
@@ -144,7 +144,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```ACHOS Is HERE😌 !!!```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -154,12 +154,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*Downloading your song*"
+            "value": "*🕊️𝒟𝓸𝔀𝓷𝓵𝓸𝓪𝓭𝓲𝓷𝓰 𝒯𝓱𝓮 𝒮ℴ𝓃ℊ🕊️*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "*Feel the song*"
+            "value": "*🍃ℱℯℯ𝓁 𝒯𝒽ℯ 𝒮ℴ𝓃ℊ🍃*"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
