@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/q1mhIa8.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/KaFgao3.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Achootty" src="https://img.shields.io/badge/Author-APPUSSS-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Achos" src="https://img.shields.io/badge/Author-APPUSSS-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="http://wa.me/+919074916607"><img title="Author" src="https://img.shields.io/badge/Author-APPUSSS/?"></a>
@@ -25,7 +25,7 @@ IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
 THEN COPY THE LINK BELLOW AND CHANGE THE NAME `APPUSSS` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/APPUSSS/Achootty
+Copy this link https://heroku.com/deploy?template=https://github.com/APPUSSS/Achos
 </p>
 
 
@@ -42,8 +42,8 @@ Copy this link https://heroku.com/deploy?template=https://github.com/APPUSSS/Ach
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/APPUSSS/Achootty
-$ cd Achootty
+$ git clone https://github.com/APPUSSS/Achos
+$ cd Achos
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -51,8 +51,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/APPUSSS/Achootty
-$ cd Achootty
+$ git clone https://github.com/APPUSSS/Achos
+$ cd Achos
 $ npm i
 $ node julie.js
 ```
@@ -79,7 +79,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=APPUSSS&repo=Achootty&theme=nightowl)](https://github.com/Ajmal-Achu/Nandhutty_v2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=APPUSSS&repo=Achos&theme=nightowl)](https://github.com/Ajmal-Achu/Nandhutty_v2)
   </div>
     
 ### ⚠️ Warning! 
