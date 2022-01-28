@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/q1mhIa8.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Achootty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Achootty" src="https://img.shields.io/badge/Author-APPUSSS-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="http://wa.me/+919074916607"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me/+919074916607"><img title="Author" src="https://img.shields.io/badge/Author-APPUSSS/?"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/APPUSSS">APPUSSS</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,9 +23,9 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 
 IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
-THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
+THEN COPY THE LINK BELLOW AND CHANGE THE NAME `APPUSSS` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
+Copy this link https://heroku.com/deploy?template=https://github.com/APPUSSS/Achootty
 </p>
 
 
@@ -42,8 +42,8 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/APPUSSS/Achootty
+$ cd Achootty
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -51,8 +51,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmallllllll/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/APPUSSS/Achootty
+$ cd Achootty
 $ npm i
 $ node julie.js
 ```
