@@ -2,7 +2,7 @@
 
 ## Nandhutty `Version 2` is no more maintained by the owner
 ## You can use the latest version [`V3`] by clicking the below button
-[`Click Here`](https://github.com/Ajmal-Achu/Nandhutty-V3)
+## [`Click Here`](https://github.com/Ajmal-Achu/Nandhutty-V3)
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
