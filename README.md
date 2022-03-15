@@ -34,7 +34,7 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
 </p>
 
 
-[![Visit](https://i.imgur.com/A6rxBdq.jpeg)](https://61dd66edc10ff.site123.me) 
+[![Visit](https://i.imgur.com/A6rxBdq.jpeg)](https://A-J-M-A-L.github.io) 
   
 ### Simple Method
   
